@@ -1,9 +1,9 @@
 <?php
 
-class ControladorPlantilla {
+class ControladorPlantilla{
 
 public function plantilla(){
 
-    include "Vistas/plantila.php";
+ include"Vistas/plantilla.php";
 }
 }
